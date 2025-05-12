@@ -1,4 +1,4 @@
-#Clear terminal 
+#Write a Python program to clear the screen or terminal.
 
 import time
 import os
